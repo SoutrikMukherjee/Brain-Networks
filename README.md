@@ -6,6 +6,18 @@ This repository contains a set of Jupyter Notebooks for visualizing and analyzin
 
 ---
 
+**Overview**:  
+This project simulates and visualizes artificial brain networks using graph theory. It leverages `NetworkX` and `matplotlib` to represent neural structures in layered and complex topologies.
+
+---
+
+**Features**:
+- Multi-layered brain network visualization
+- Synaptic weight & degree centrality color maps
+- Neuronal activity simulation (dynamical systems)
+
+---
+
 ## 📁 Contents
 
 | Notebook File | Description |
